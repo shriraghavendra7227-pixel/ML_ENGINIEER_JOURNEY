@@ -1,5 +1,5 @@
 NumPy Cheat Sheet
-
+NumPy is the fundamental Python library for numerical computing. It provides a fast, efficient N-dimensional array (ndarray) and many mathematical functions for working with arrays
 Import
 
     import numpy as np
